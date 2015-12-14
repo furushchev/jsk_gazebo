@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<package>
+  <name>jsk_gazebo_plugins</name>
+  <version>1.0.0</version>
+  <description>jsk_gazebo_plugins</description>
+  <maintainer email="furushchev@jsk.imi.i.u-tokyo.ac.jp">Yuki Furuta</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>cmake</buildtool_depend>
+</package>
